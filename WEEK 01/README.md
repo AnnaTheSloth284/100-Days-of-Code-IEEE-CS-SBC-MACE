@@ -3,7 +3,7 @@
 <details>
     <summary> <h1>Intro</h1> </summary>
     <br>
-    Short intro about this course
+    <h4>Python is a popular high-level programming language that is widely used for web development, data analysis, artificial intelligence, scientific computing, and more. It was first released in 1991 and has since become one of the fastest-growing programming languages. Python emphasizes code readability and simplicity, with a clean syntax that makes it easy to learn and use. It supports multiple programming paradigms, including object-oriented, functional, and procedural programming, and has a large and active community that contributes to its development and support.</h4>
 </details>
 
 <details>
