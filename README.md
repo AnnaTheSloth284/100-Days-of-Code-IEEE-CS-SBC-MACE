@@ -5,7 +5,7 @@
 Here our aim is to promote the practice of DIY Learning
 
 <details>
-  <summary> Intro</summary> 
+  <summary> <h1>Intro</h1></summary> 
   <br>
   Insert Intro to 100 days of Code Here
 </details>
@@ -21,5 +21,8 @@ Here our aim is to promote the practice of DIY Learning
     <li>The particiapnts may go through the given resources or may also use resources of their own liking</li>
     <li>Particpants must create their own repositories as a frok from this one and must name it like name-100DoC-IEEEMACE</li>
   </ul>
+</details>
+
+<details>
 </details>
 
