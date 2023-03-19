@@ -7,6 +7,17 @@
 </details>
 
 <details>
+    <summary> <h1>Tasks</h1> </summary>
+    <ol>
+        <li><a href="https://youtu.be/pdy3nh1tn6I?t=41" title="Easy Project in Python">Email Sender</a></li>
+        <li><a href="https://youtu.be/pdy3nh1tn6I?t=875" title="Easy Project in Python">Basic Calculator</a></li>
+        <li><a href="https://youtu.be/pdy3nh1tn6I?t=4911" title="Easy Project in Python">Random NUmber Generator</a></li>
+        <li><a href="https://youtu.be/pdy3nh1tn6I?t=5927" title="Easy Project in Python">Site Connectivity Checker</a></li>
+        <li><a href="https://youtu.be/pdy3nh1tn6I?t=10654" title="Easy Project in Python">Graph Plotter</a></li>
+    </ol>
+</details>
+
+<details>
     <summary> <h1>Resources</h1> </summary>
     <br>
     <ul>
@@ -23,13 +34,12 @@
               <li> <a href="https://www.programiz.com/python-programming" title="Python Course for Beginners">Programmiz</a> </li>
               <li> <a href="https://www.sololearn.com/learn/courses/python-introduction" title="Python Course for Beginners">Sololearn</a> </li>
           </ul>
+        <li> Online Course Links </li>
+          <ul>
+              <li> <a href="https://rb.gy/unmfe0" title="Python Course for Beginners">dataCamp</a> </li>
+              <li> <a href="https://www.udemy.com/topic/python/free/" title="Python Course for Beginners">Udemy</a> </li>
+              <li> <a href="https://www.edx.org/course/cs50s-introduction-to-programming-with-python" title="Python Course for Beginners">CS50</a> </li>
+              <li> <a href="https://rb.gy/p2ssjn" title="Python Course for Beginners">Coursera</a> </li>
+          </ul>
     </ul>
 </details>
-
-<details>
-    <summary> <h1>Tasks</h1> </summary>
-    <ul>
-        <li><a href="https://youtu.be/pdy3nh1tn6I" title="Python Course for Beginners">Sololearn</a></li>
-    </ul>
-</details>
-
