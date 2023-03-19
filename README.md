@@ -1,8 +1,8 @@
 # 100 Days of Code | IEEE CS SBC MACE
 
-# Welcome to 100 Days of Code everyone !
+## Welcome to 100 Days of Code everyone !
 
-Here our aim is to promote the practice of DIY Learning
+## Here our aim is to promote the practice of DIY Learning
 
 <details>
   <summary> <h1>Intro</h1></summary> 
