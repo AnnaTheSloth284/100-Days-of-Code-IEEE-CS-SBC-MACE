@@ -37,32 +37,40 @@ Let’s take a brief look into the history of Python shall we.
 
 </ol>
 
+### Tasks
 
-<h3>Task #1</h3>
-    <ol>
-        <li><p align="justify">You are required to replace every letter with its position in the alphabet, given a string. If anything in the text isn't a letter, ignore it and don't return it. "a" = 1, "b" = 2, etc.<br>
+1. You are required to replace every letter with its position in the alphabet, given a string. If anything in the text isn't a letter, ignore it and don't return it. "a" = 1, "b" = 2, etc.<br>
                 Example<br>
-                Input    ("The sunset sets at twelve o' clock.")<br>
-                Output   "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11" ( as a string )</p></li>
-        <li> <p align="justify">Create a FUNCTION that retruns the square of a number given by the user
-                Example             
+                ```Input    ("The sunset sets at twelve o' clock.")```<br>
+                ```Output   "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11" ( as a string )
+                ```
+                
+       <p align="justify">2. Create a FUNCTION that retruns the square of a number given by the user
+                Example</p>
+                
                 Input  3                
-                Output 9</p></li>                
-        <li> <p align="justify">Write a program that stores numbers entered by the user into a pre existing array [1,2,3]
-                Example 
+                Output 9   
+                
+        <p align="justify">3. Write a program that stores numbers entered by the user into a pre existing array [1,2,3]
+                Example</p>
+                
                 Input   1                
                 Output  [1,2,3,1]
+                
                 Input  1,2                
-                Output [1,2,3,1,2]</p></li>      
-        <li> <p align="justify">Create a FUNCTION that recieves an array and returns its sum
-                Example<br>                
+                Output [1,2,3,1,2]  
+                
+        <p align="justify">4. Create a FUNCTION that recieves an array and returns its sum
+                Example</p>  
+                
                 Input  [1,2,3]               
-                Output 6</p></li>                
-        <li> <p align="justify">Create a square sum function so that it squares each number passed into it and then sums the results together.
-                Example      
+                Output 6    
+                
+        <p align="justify">5. Create a square sum function so that it squares each number passed into it and then sums the results together.
+                Example</p>
+                
                 [1, 2, 2] it should return 9
-                </p></li> 
-        </ol>
+
         
 
 ### Here is a set of links that can help you in your coding journey
