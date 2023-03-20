@@ -28,11 +28,8 @@ Python was designed to be a high-level, interpreted, and general-purpose program
 <h3>Task #1</h3>
     <ol>
         <li><p align="justify">You are required to replace every letter with its position in the alphabet, given a string. If anything in the text isn't a letter, ignore it and don't return it. "a" = 1, "b" = 2, etc.
-
                 Example
-
                 Input    ("The sunset sets at twelve o' clock.")
-
                 Output   "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11" ( as a string )</p></li>
          
       
