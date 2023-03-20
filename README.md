@@ -7,7 +7,6 @@ and coding languages by building projects with like minded peers under mentors i
 
 <details>
   <summary><h3>Guidelines</h3></summary> 
-  <br><br/>
   <ul>
     <li>All the weekly tasks along will be updated in this repo every week🗓️ by <b>Monday, 9pm IST</b></li>
     <li>Participants must create their own public repositories👩‍💻🧑‍💻 and must name it in the format: <b>your_first_name_and_last name-100DoC-IEEEMACE</b></li> 
