@@ -4,6 +4,8 @@
 ## Welcome to 100 Days of Code everyone🤠!
 A mutual initiative of IEEE CS SBC MACE and IEEE RAS SBC MACE aiming to promote DIY a.k.a Do-It-Yourself Coding,  upskill yourself in various aspects of programming and coding languages by building projects with like minded peers under mentors in the next 100 days.
 
+_This is exclusively meant for IEEE MACE SB members who have registered for this program earlier._
+
 <!--POINTS TO NOTE-->
 <details>
   <summary><h3>Thing you need to know before getting started</h3></summary> 
