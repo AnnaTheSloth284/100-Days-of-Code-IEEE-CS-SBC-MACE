@@ -22,6 +22,54 @@ Python was designed to be a high-level, interpreted, and general-purpose program
 
 ![image](https://user-images.githubusercontent.com/112563080/226271186-ccd330cc-d649-4ffe-b35d-4faf9562a090.png)
 
+### A Quick Overview of Python
+
+There are two main ways one can code in Python
+        <ol>
+        <li>Interactive Mode </li> 
+                <ul>
+                        <li>Here, when we type the Python Statement, interpreter displays the result immediately.</li>
+                        <li>Convenenient for begginers as they can test their codes immediately.</li>
+                </ul>
+        <li>Script Mode</li>
+        <ul>
+                        <li>Here, we type Python program in a file and then use interpreter to execute the content of the file </li>
+                        <li>Required when one needs to write long pieces of code</li>
+        </ul>
+        </ol>
+ 
+ Variables in Python : These are used to store data and consist of 3 main parts
+        <ul>
+        <li>An Identity :  This is the name of the variable</li> 
+        <li>Data Type : This is basically a set of permitted values and valid operations on those values.
+                        There are 5 differnt data types in Python</li>
+            <ol>
+                 <li>Numbers : These consist of the different Numerical Values. They are further classified as</li>
+                 <ul>
+                        <li>Integer & Long : These are the whole numbers, ie decimal digits without the fraction part</li>
+                        <li>Float : These are the with a fraction part</li>
+                        <li>Complex : These are used to store numbers with real and imaginary part</li>
+                 </ul>
+                 <li>None : This is special data type with a single value. It is used to signify the absence of value/false in a situation. It is represented by None.</li>
+                 <li>Sequence : A sequence is an ordered collection of items, indexed by positive integers. They are of the follwoing types</li>
+                 <ul>
+                        <li>String- is an ordered sequence of letters/characters. They are enclosed in single quotes (' ') or double quotes (" "). They are immutable, ie they cannot be edited after creation</li>
+                        <li>Lists: List is also a sequence of values of any type. Values in the list are called elements / items. These are mutable and indexed/ordered. List is enclosed in square brackets ([]).</li> 
+                        <li>Tuples: Tuples are a sequence of values of any type and are indexed by integers. They are immutable. Tuples are enclosed in ().</li>
+                 </ul>
+                 <li>Sets : This is an unordered collection of values of any type with no duplicate entry. It is immutable.</li>
+                 <li>Mapping : This data type is unordered and mutable.</li>
+                 <ul>
+                 <li>Dictionaries, which are made up of key value pairs are an example. They are enclosed in curly brackets ({})</li>
+                 </ul> 
+            </ol>
+            <li>Value :  This is any number, letter or string that can be assigned to a variable using the assigment operator (=)</li> 
+        </ul>
+ 
+       
+
+
+
 
 <details>
     <summary> <h3>Task #1</h3> </summary>
