@@ -1,9 +1,41 @@
 # Python Essentials
 
 <details>
-    <summary> <h1>Intro</h1> </summary>
+    <summary> <h2>Intro</h2> </summary>
     <br>
-    <h4>Python is a popular high-level programming language that is widely used for web development, data analysis, artificial intelligence, scientific computing, and more. It was first released in 1991 and has since become one of the fastest-growing programming languages. Python emphasizes code readability and simplicity, with a clean syntax that makes it easy to learn and use. It supports multiple programming paradigms, including object-oriented, functional, and procedural programming, and has a large and active community that contributes to its development and support.</h4>
+    <h3>How it all Started
+    </h3> 
+        <p align="justify" indent=2cm><h4>
+	    Let’s take a brief look into the history of Python shall we. 
+        <ul>
+            <li>1991 : von Rossum publishes Python version 0.9.0 to alt.sources</li>
+            <li>1994 : Release of Python 1.0 , including functional programming</li>
+            <li>2000 : Python 2.0 introduces list comprehension and garbage collection</li>
+            <li>2008 : Python 3.0 released, fixes design flaws and is not backwards compatible
+            <li>2020 : Last version of Python 2, version 2.7.18 released</li>
+        </ul> 
+        Python was designed to be a high-level, interpreted, and general-purpose programming language that emphasized code readability and simplicity. It quickly gained popularity among developers due to its clear and concise syntax, as well as its wide range of applications, including web development, data analysis, artificial intelligence, machine learning, and more.
+        </h4></p>
+    <br>
+    <p align="center">
+        <img width="300" src="https://drive.google.com/uc?export=view&id=1TS4OhR21ouOhAkv03WqCAno42Eo7wDhF">
+    </p>
+  
+    
+    <br>
+    <h3>How its going</h3> 
+    <br>
+        <p align="justify"><h4>
+	    Ever wondered how Python got it’s name? Its a funny story actually. When its creator Guido von Rossum,began implementing Python, he was also reading the published scripts from “Monty Python's Flying Circus”, a BBC comedy series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
+        Python was designed to be a high-level, interpreted, and general-purpose programming language that emphasized code readability and simplicity. It quickly gained popularity among developers due to its clear and concise syntax, as well as its wide range of applications, including web development, data analysis, artificial intelligence, machine learning, and more.
+        </h4></p>
+    <br>
+    <p align="center">
+        <img width="300" src="https://drive.google.com/uc?export=view&id=1TS4OhR21ouOhAkv03WqCAno42Eo7wDhF">
+    </p>
+   
+   
+    
 </details>
 
 <details>
