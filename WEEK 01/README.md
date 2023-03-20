@@ -73,13 +73,13 @@ Let’s take a brief look into the history of Python shall we.
 <h3>Resources</h3> 
     <br>
     <ul>
-        <li> <a href="https://www.python.org/about/gettingstarted/" title="The best start for a beginner to Python">Official Site</a> </li>
+        <li> <a href="https://www.python.org/about/gettingstarted/" title="TOfficial Site">The best start for a beginner to Python</a> </li>
         <li> Free Code Camp Links </li>
           <ul>
-              <li> <a href="https://www.youtube.com/watch?v=8124kv-632k" title="Python Tutorial for Beginners">Video</a> </li>
-              <li> <a href="https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/" title="Python Course for Beginners">Blog</a> </li>
+              <li> <a href="https://www.youtube.com/watch?v=8124kv-632k" title="Video">Python Tutorial for Beginners</a> </li>
+              <li> <a href="https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/" title="Blog">Python Course for Beginners</a> </li>
           </ul>
-        <li> <a href="https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU" title="A comprehencive playlisst to begin in Python">Playlist</a> </li>
+        <li> <a href="https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU" title="Playlist">A comprehencive playlist to begin in Python</a> </li>
         <li> Online Code Editor Links </li>
           <ul>
               <li> <a href="https://www.w3schools.com/python/default.asp" title="Python Course for Beginners">W3Schools</a> </li>
