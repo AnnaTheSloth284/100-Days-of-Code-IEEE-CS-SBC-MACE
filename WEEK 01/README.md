@@ -66,9 +66,55 @@ There are two main ways one can code in Python
             <li>Value :  This is any number, letter or string that can be assigned to a variable using the assigment operator (=)</li> 
         </ul>
  
-       
+ Keywords in Python : These are a set of words in Python that have special meaning to the interpreter and hence cannot be used as variable names
+ This is a partial set of keywords in Python 
+ <ul>
+        <li>and</li>
+        <li>or</li>
+        <li>in</li>
+        <li>while</li>
+        <li>for</li>
+        <li>if</li>
+        <li>elif</li>
+        <li>else</li>
+ </uk>
 
 
+<details>
+       <summary> <h3>Strings</h3> </summary>  
+</details>
+
+
+<details>
+       <summary> <h3>Lists</h3> </summary>  
+</details>
+
+
+<details>
+       <summary> <h3>Tuples</h3> </summary>  
+</details>
+
+
+<details>
+       <summary> <h3>Dictionaries</h3> </summary> 
+       <ul>
+       <details>
+               <summary> Definitions </summary>
+               <ul>
+                       <li> <p align="justify">A dictionary is like a list, but more in general. In a list, index value is an integer, while in a dictionary index value can 
+                                be any other data type and are called keys. The key will be used as a string as it is easy to recall. A
+                                dictionary is an extremely useful data storage construct for storing and retrieving all key value pairs,
+                                where each element is accessed (or indexed) by a unique key. However, dictionary keys are not in
+                                sequences and hence maintain no left-to-right order</p> </li>
+                       <li><p align="justify"Key-value pair: We can refer to a dictionary as a mapping between a set of indices (which are called keys) 
+                              and a set of values. Each key maps a value. The association of a key and a value is called a key-value pair.</p></li>
+                       <li><p align="justify">Syntax : my_dict = {'key1': 'value1','key2': 'value2','key3': 'value3'....'keyn': 'valuen'}</p></li>
+               </ul>
+       </details>
+       <details>
+               <summary> Functions </summary>
+       </details> 
+</details>
 
 
 <details>
