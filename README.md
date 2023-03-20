@@ -1,9 +1,8 @@
 ![100docgitcover](https://user-images.githubusercontent.com/112563080/226259630-7d3a0ebd-7637-43b4-96a7-05f116957e8e.png)
 # 100 Days of Code | IEEE CS SBC MACE x IEEE RAS SBC MACE
 
-## Welcome to 100 Days of Code everyone !
-Here our aim is to promote the practice of DIY Learning. Upskill yourself in various aspects of programming 
-and coding languages by building projects with like minded peers under mentors in just 100 days. 
+## Welcome to 100 Days of Code everyone🤠!
+A mutual initiative of IEEE CS SBC MACE and IEEE RAS SBC MACE aiming to promote DIY a.k.a Do-It-Yourself Coding,  upskill yourself in various aspects of programming and coding languages by building projects with like minded peers under mentors in the next 100 days.
 
 <!--POINTS TO NOTE-->
 <details>
