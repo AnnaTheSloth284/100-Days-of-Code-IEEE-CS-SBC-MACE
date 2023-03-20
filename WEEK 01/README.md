@@ -1,12 +1,8 @@
 # Python Essentials
 
-<details>
-    <summary> <h2>Intro</h2> </summary>
-    <br>
-    <h3>How it all Started
-    </h3> 
-        <p align="justify" indent=2cm><h4>
-	    Let’s take a brief look into the history of Python shall we. 
+How it all Started
+
+Let’s take a brief look into the history of Python shall we. 
         <ul>
             <li>1991 : von Rossum publishes Python version 0.9.0 to alt.sources</li>
             <li>1994 : Release of Python 1.0 , including functional programming</li>
@@ -15,31 +11,20 @@
             <li>2020 : Last version of Python 2, version 2.7.18 released</li>
         </ul> 
         Python was designed to be a high-level, interpreted, and general-purpose programming language that emphasized code readability and simplicity. It quickly gained popularity among developers due to its clear and concise syntax, as well as its wide range of applications, including web development, data analysis, artificial intelligence, machine learning, and more.
-        </h4></p>
-    <br>
-    <p align="center">
-        <img width="300" src="https://drive.google.com/uc?export=view&id=1TS4OhR21ouOhAkv03WqCAno42Eo7wDhF">
-    </p>
-  
-    
-    <br>
-    <h3>How its going</h3> 
-    <br>
-        <p align="justify"><h4>
-	    Ever wondered how Python got it’s name? Its a funny story actually. When its creator Guido von Rossum,began implementing Python, he was also reading the published scripts from “Monty Python's Flying Circus”, a BBC comedy series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
-        Python was designed to be a high-level, interpreted, and general-purpose programming language that emphasized code readability and simplicity. It quickly gained popularity among developers due to its clear and concise syntax, as well as its wide range of applications, including web development, data analysis, artificial intelligence, machine learning, and more.
-        </h4></p>
-    <br>
-    <p align="center">
-        <img width="300" src="https://drive.google.com/uc?export=view&id=1TS4OhR21ouOhAkv03WqCAno42Eo7wDhF">
-    </p>
-   
-   
-    
-</details>
+
+![image](https://user-images.githubusercontent.com/112563080/226270888-745ffc81-ecc1-4286-bac1-8d10f97321ad.png)
+
+How its going
+
+Ever wondered how Python got it’s name? Its a funny story actually. When its creator Guido von Rossum,began implementing Python, he was also reading the published scripts from “Monty Python's Flying Circus”, a BBC comedy series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
+
+Python was designed to be a high-level, interpreted, and general-purpose programming language that emphasized code readability and simplicity. It quickly gained popularity among developers due to its clear and concise syntax, as well as its wide range of applications, including web development, data analysis, artificial intelligence, machine learning, and more.
+
+![image](https://user-images.githubusercontent.com/112563080/226271186-ccd330cc-d649-4ffe-b35d-4faf9562a090.png)
+
 
 <details>
-    <summary> <h1>Tasks</h1> </summary>
+    <summary> <h3>Task #1</h3> </summary>
     <ol>
         <li><a href="https://youtu.be/pdy3nh1tn6I?t=41" title="Easy Project in Python">Email Sender</a></li>
         <li><a href="https://youtu.be/pdy3nh1tn6I?t=875" title="Easy Project in Python">Basic Calculator</a></li>
@@ -50,7 +35,7 @@
 </details>
 
 <details>
-    <summary> <h1>Resources</h1> </summary>
+    <summary> <h3>Resources</h3> </summary>
     <br>
     <ul>
         <li> <a href="https://www.python.org/about/gettingstarted/" title="The best start for a beginner to Python">Official Site</a> </li>
