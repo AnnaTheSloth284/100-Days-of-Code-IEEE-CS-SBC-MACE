@@ -12,10 +12,10 @@ _This is exclusively meant for IEEE MACE SB members who have registered for this
   <ul>
     <li>The groups were created since we'd be having 👥some group tasks too in the coming weeks. And dont worry😟, we split the groups based on your responses✍️</li>
     <li>Each group will have a mentor 👩‍🏫👨‍🏫who would be keeping track of your progress 📈on almost a daily basis</li> 
-    <li>So since we are having quite a diverse audience🌐, it isn't necessary that everyone can keep up with the same pace💨. So if you are getting stuck anywhere, 💬do inform your group mentors or us of the same and we'd be more than happy to help 🤗</li>
-    <li>We won't be able to guarantee it a 24x7 ⏱️service , but we have a great mentor team🫂 to help you get you doubts cleared💭</li> 
-    <li>If you need us to sit with you in helping you understand a particular concept 📚or something, we'll be available for both online meets💻, or calls, or after class hours 🏛️ on weekdays @ the IEEE Lab🔬(do inform us earlier tho). We are always there to help you out. </li> 
-    <li>Except for weekends (you will need special permission), you are free to use 🌝 the IEEE lab learning or doing the tasks after class hours 👩‍🎓👨‍🎓from 4:00-5:30pm given that you inform us📞 earlier.</li>
+    <li>So since we are having quite a diverse audience🌐, it isn't necessary that everyone can keep up with the same pace💨. So <b>if you are getting stuck anywhere, 💬do inform your group mentors or us of the same</b> and we'd be more than <b>happy to help</b> 🤗</li>
+    <li>We won't be able to guarantee it a 24x7 ⏱️service , but we have a great mentor team🫂 to help you get your <b>doubts</b> cleared💭</li> 
+    <li>If you need us to sit with you in helping you understand a particular concept 📚or something, we'll be available for <b>both online meets💻, or calls, or after class hours 🏛️ on weekdays @ the IEEE Lab</b>🔬(do inform us earlier tho). We are always there to help you out. </li> 
+    <li>Except for weekends (you will need special permission), you are <b>free to use 🌝 the IEEE lab</b> for learning or doing the tasks after class hours 👩‍🎓👨‍🎓from <b>4:00pm-5:30pm</b> given that you inform us📞 earlier.</li>
   </ul>
 </details>
 
