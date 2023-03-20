@@ -1,6 +1,14 @@
 # Python Essentials
 
-How it all Started
+### How it all Started
+
+Ever wondered how Python got it’s name? Its a funny story actually. When its creator Guido von Rossum,began implementing Python, he was also reading the published scripts from “Monty Python's Flying Circus”, a BBC comedy series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
+
+Python was designed to be a high-level, interpreted, and general-purpose programming language that emphasized code readability and simplicity. It quickly gained popularity among developers due to its clear and concise syntax, as well as its wide range of applications, including web development, data analysis, artificial intelligence, machine learning, and more.
+
+![image](https://user-images.githubusercontent.com/112563080/226271186-ccd330cc-d649-4ffe-b35d-4faf9562a090.png)
+
+### How its going
 
 Let’s take a brief look into the history of Python shall we. 
         <ul>
@@ -14,15 +22,20 @@ Let’s take a brief look into the history of Python shall we.
 
 ![image](https://user-images.githubusercontent.com/112563080/226270888-745ffc81-ecc1-4286-bac1-8d10f97321ad.png)
 
-How its going
 
-Ever wondered how Python got it’s name? Its a funny story actually. When its creator Guido von Rossum,began implementing Python, he was also reading the published scripts from “Monty Python's Flying Circus”, a BBC comedy series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
+## Excited ? Wanna know more about Python?
 
-Python was designed to be a high-level, interpreted, and general-purpose programming language that emphasized code readability and simplicity. It quickly gained popularity among developers due to its clear and concise syntax, as well as its wide range of applications, including web development, data analysis, artificial intelligence, machine learning, and more.
+### Now let's dive deeaper 
 
-![image](https://user-images.githubusercontent.com/112563080/226271186-ccd330cc-d649-4ffe-b35d-4faf9562a090.png)
+### Here is a set of links to get you started on your journey
 
+<ol>
+         <li> <a href="https://drive.google.com/file/d/1TPuQv_UUNWriyszGdcahMiaJBjszrzI6/view?usp=share_link" title="Introduction">Getting Started with Python</a> </li>
+         <li> <a href="https://drive.google.com/file/d/1RDoHLUZBiOsvZqtQ1JVbMA-5nLsq9AX_/view?usp=share_link" title="Basics">Intro to Lists, Tuple and Dictionaries</a> </li>
+         <li> <a href="https://drive.google.com/file/d/1v9987Qdyb2OK3PX7KaOE885eM38ouXmO/view?usp=share_link" title="Intermediate">Control Structures and List Comprehenion</a> </li>
+         <li> <a href="https://drive.google.com/file/d/1w-UHiQOn7tcKLOf8At5Pxj88p5_akRBz/view?usp=share_link" title="Advanced">Functions, Error Handling, File IO and Numpy</a> </li>
 
+</ol>
 
 
 <h3>Task #1</h3>
@@ -50,10 +63,11 @@ Python was designed to be a high-level, interpreted, and general-purpose program
                 [1, 2, 2] it should return 9
                 </p></li> 
         </ol>
+        
 
+### Here is a set of links that can help you in your coding journey
 
-<details>
-    <summary> <h3>Resources</h3> </summary>
+<h3>Resources</h3> 
     <br>
     <ul>
         <li> <a href="https://www.python.org/about/gettingstarted/" title="The best start for a beginner to Python">Official Site</a> </li>
@@ -77,4 +91,4 @@ Python was designed to be a high-level, interpreted, and general-purpose program
               <li> <a href="https://rb.gy/p2ssjn" title="Python Course for Beginners">Coursera</a> </li>
           </ul>
     </ul>
-</details>
+
