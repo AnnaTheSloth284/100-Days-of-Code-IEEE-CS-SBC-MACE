@@ -27,12 +27,28 @@ Python was designed to be a high-level, interpreted, and general-purpose program
 
 <h3>Task #1</h3>
     <ol>
-        <li><p align="justify">You are required to replace every letter with its position in the alphabet, given a string. If anything in the text isn't a letter, ignore it and don't return it. "a" = 1, "b" = 2, etc.
-                Example
-                Input    ("The sunset sets at twelve o' clock.")
+        <li><p align="justify">You are required to replace every letter with its position in the alphabet, given a string. If anything in the text isn't a letter, ignore it and don't return it. "a" = 1, "b" = 2, etc.<br>
+                Example<br>
+                Input    ("The sunset sets at twelve o' clock.")<br>
                 Output   "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11" ( as a string )</p></li>
-         
-      
+        <li> <p align="justify">Create a FUNCTION that retruns the square of a number given by the user
+                Example             
+                Input  3                
+                Output 9</p></li>                
+        <li> <p align="justify">Write a program that stores numbers entered by the user into a pre existing array [1,2,3]
+                Example 
+                Input   1                
+                Output  [1,2,3,1]
+                Input  1,2                
+                Output [1,2,3,1,2]</p></li>      
+        <li> <p align="justify">Create a FUNCTION that recieves an array and returns its sum
+                Example<br>                
+                Input  [1,2,3]               
+                Output 6</p></li>                
+        <li> <p align="justify">Create a square sum function so that it squares each number passed into it and then sums the results together.
+                Example      
+                [1, 2, 2] it should return 9
+                </p></li> 
         </ol>
 
 
