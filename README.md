@@ -26,7 +26,7 @@ _This is exclusively meant for IEEE MACE SB members who have registered for this
     <li>All the weekly tasks along will be updated in this repo every week🗓️ by <b>Monday, 9pm IST</b></li>
     <li>Participants must create their own public repositories👩‍💻🧑‍💻 and must name it in the format: <b>your_first_name_and_last name-100DoC-IEEEMACE</b></li> 
     <li>The deadline⏳ to submit each task will be the <b>Sunday, 11:59pm IST</b> of every week. </li>
-    <li>Only those participants who submit within the stipulated time will be recieving the certificates🏅 and... well, that's a surprise for now😉</li> 
+    <li>Only those participants who submit within the stipulated time will be receiving the certificates🏅 and... well, that's a surprise for now😉</li> 
     <li>Submission simply means pushing your code💻 into your repos🤓</li> 
   </ul>
 </details>
