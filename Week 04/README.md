@@ -2,9 +2,7 @@
 
 Welcome to our Introduction to MySQL and MySQL-Python Connectivity module! In this module, we will cover the basics of working with MySQL databases and how to connect to them using Python.
 
-We understand that learning a new technology can be overwhelming, so we've made this module as simple and fun as possible. We'll break down each topic into easy-to-digest sections and provide plenty of examples to help you understand the concepts.
 
-We'll also be hosting the module on GitHub, so you can easily access the course material and collaborate with other learners.
 
 We hope you'll find this module both informative and enjoyable. Let's get started on our journey to mastering MySQL and Python connectivity!
 
@@ -23,18 +21,21 @@ We hope you'll find this module both informative and enjoyable. Let's get starte
 
 ### Tasks
 
-1. Create a text file and add your personal info to it.<br>
+1. Create a database and add your family's info to it.<br>
                 
              
-2. Create a menu driven program with user defined functions to create a new file, copy contents from file to another and display a file.
+2. Create a menu driven program with user defined functions and MySQL commands to simulate a Library Register. 
+  You can use functions like ADD, UPDATE, DELETE etc to simulate adding / returning a book, updating stock or renewing a book etc. 
+  The database must contain atleast the Title, Author, Return date and any other details you wish to add
 
                 
-3. Write a program that stores numbers entered by the user into a file. Then once the user stops, another function must sort through the file and create a new file which separates the numbers into 3 groups, even, odd and prime. U may also add another classification to make the task more fun
-                Example<br>                
-                ```  Input File  1 12 10 8 3 16 2 4 5 0           ```               
-                ```  Output File Even :  12 10 8 16 2 4 0
-                                 Odd : 1 3 5 
-                                 Prime : 3 2 5                    ```<br>                
+3. Building a simple shopping cart
+ <ul>
+         <li> Create a database table to store products with their name, price, and description.</li>
+         <li> Allow the user to browse the products and add items to their cart.</li>
+         <li> Store the contents of the cart in the database and display the total price.</li> 
+         <li> Allow the user to checkout and complete their purchase.</li> 
+</ul>       
 
 
         
@@ -44,24 +45,25 @@ We hope you'll find this module both informative and enjoyable. Let's get starte
 <h3>Resources</h3> 
     <br>
     <ul>
-        <li> <a href="https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files" title="Official Documentation">A good place to start working with files.</a> </li>
+        <li> <a href="https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html" title="Official Documentation">A good place to start working with MySQL.</a> </li>
         <li> Free Code Camp Links </li>
           <ul>
-              <li> <a href="" title="Video">Python Tutorial for Beginners</a> </li>
-              <li> <a href="" title="Blog">Python Course for Beginners</a> </li>
+              <li> <a href="https://youtu.be/HXV3zeQKqGY" title="Video">MySQL Tutorial for Beginners</a> </li>
+              <li> <a href="https://www.freecodecamp.org/news/connect-python-with-sql/" title="Blog">Python-MySQL for Beginners</a> </li>
           </ul>
-        <li> <a href="https://youtube.com/playlist?list=PL1e824GpuE2hSGFEnZ-U7g8FjtHdH8wzU" title="Playlist">A comprehencive playlist to begin working with files in Python</a> </li>
+        <li> <a href="https://youtube.com/playlist?list=PLeepFBHLII7E8ShLFhWQSSn8z5CHwHzJU" title="Playlist">A playlist to begin working with MySQL in Python</a> </li>
         <li> Online Code Editor Links </li>
           <ul>
-              <li> <a href="https://www.w3schools.com/python/python_file_handling.asp" title="Working with Files">W3Schools</a> </li>
-              <li> <a href="https://www.programiz.com/python-programming/file-operation" title="Working with Files">Programmiz</a> </li>
-              <li> <a href="https://www.geeksforgeeks.org/file-handling-python/" title="Working with Files">GeeksforGeeks</a> </li>
-              <li> <a href="https://www.tutorialspoint.com/python/python_files_io.htm" title="Working with Files">TutorialsPoint</a> </li>
+              <li> <a href="https://repl.it/" title="Working with Python-MySQL">Repl.it</a> </li>
+              <li> <a href="https://jupyter.org/try" title="Working with Python-MySQL">Jupyter Notebooks</a> </li>
+              <li> <a href="https://www.jdoodle.com/mysql-online-compiler/" title="Working with Python-MySQL">JDoodle</a> </li>
+              <li> <a href="https://www.tutorialspoint.com/python/python_files_io.htm" title="Working with Python-MySQL">TutorialsPoint</a> </li>
           </ul>
         <li> Online Course Links </li>
           <ul>
-              <li> <a href="https://www.datacamp.com/courses/working-with-files-in-python" title="Working with Files">dataCamp</a> </li>
-              <li> <a href="https://www.guru99.com/file-handling-in-python.htmln" title="Working with Files">Guru99</a> </li>
+              <li> <a href="https://www.udemy.com/courses/search/?src=ukw&q=Python+Mysql" title="Working with Python-MySQL">Udemy</a> </li>
+              <li> <a href="https://www.codecademy.com/learn/learn-sql" title="Working with Python-MySQL">Codecademy</a> </li>
+              <li> <a href="https://www.mysqltutorial.org/" title="Working with Python-MySQL">MySQLTutorial</a> </li>
           </ul>
     </ul>
 
