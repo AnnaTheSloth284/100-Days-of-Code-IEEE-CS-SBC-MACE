@@ -2,11 +2,9 @@
 
 Welcome to our Introduction to MySQL and MySQL-Python Connectivity module! In this module, we will cover the basics of working with MySQL databases and how to connect to them using Python.
 
-Now, you might be wondering 🤔🤔🤔</br>
-   ### What is MySQL? </br>
-   ### Why do we need to use MySQL??</br>
+To start off let's clear up some doubts shall we?
 
-Well... to answer your questions,
+### What is MySQL? </br>
 
 MySQL is an open-source relational database management system (RDBMS) that is widely used for storing and managing large amounts of data. It is a popular choice for web developers, data analysts, and businesses due to its flexibility, reliability, and scalability. MySQL was first released in 1995 and is now owned by Oracle Corporation.
 
@@ -20,7 +18,7 @@ However, there are also some disadvantages to using MySQL. One of the main drawb
 
 In summary, MySQL is a popular and widely used RDBMS that is valued for its flexibility, scalability, and security features. While it can be challenging to set up and configure, its advantages make it a popular choice for data management and analysis.
 
-
+### Why do we need to use MySQL??</br>
 Here's why programmers tend to use Python and MySQL together
 <ol>
          <li> Python and MySQL connectivity enables flexible and efficient data manipulation. </li>
