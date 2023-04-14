@@ -8,7 +8,20 @@ Now, you might be wondering 🤔🤔🤔</br>
 
 Well... to answer your questions,
 
+MySQL is an open-source relational database management system (RDBMS) that is widely used for storing and managing large amounts of data. It is a popular choice for web developers, data analysts, and businesses due to its flexibility, reliability, and scalability. MySQL was first released in 1995 and is now owned by Oracle Corporation.
 
+MySQL is used for a wide range of applications, from small-scale web applications to large-scale enterprise systems. It is a powerful tool for storing and managing structured data, such as customer information, financial data, and product catalogs. MySQL is also commonly used for data analysis, with many data analytics tools offering built-in support for MySQL connectivity.
+
+One of the main advantages of MySQL is its scalability. MySQL can handle large volumes of data and can easily be scaled up or down as needed. It also supports multiple storage engines, which allows for a high degree of flexibility in data management.
+
+Another advantage of MySQL is its security features. MySQL includes built-in security features such as access control, encryption, and authentication, which help protect sensitive data from unauthorized access.
+
+However, there are also some disadvantages to using MySQL. One of the main drawbacks is that it can be difficult to set up and configure for beginners. It also lacks some advanced features that are available in other databases, such as support for geospatial data and full-text search.
+
+In summary, MySQL is a popular and widely used RDBMS that is valued for its flexibility, scalability, and security features. While it can be challenging to set up and configure, its advantages make it a popular choice for data management and analysis.
+
+
+Here's why programmers tend to use Python and MySQL together
 <ol>
          <li> Python and MySQL connectivity enables flexible and efficient data manipulation. </li>
          <li> Python's powerful data manipulation libraries like pandas and numpy make it easy to manipulate data in MySQL databases. </li>
@@ -19,28 +32,16 @@ Well... to answer your questions,
         </ol>
          
          
-
-
-
-
-
-
-
-
 We hope you'll find this module both informative and enjoyable. Let's get started on our journey to mastering MySQL and Python connectivity!
 
 
 ### Now let's dive deeaper 
 
-### Here is a set of links to get you started on your journey
-
-<ol>
-         <li> <a href="https://drive.google.com/file/d/1TPuQv_UUNWriyszGdcahMiaJBjszrzI6/view?usp=share_link" title="Introduction">Getting Started with Python</a> </li>
-         <li> <a href="https://drive.google.com/file/d/1RDoHLUZBiOsvZqtQ1JVbMA-5nLsq9AX_/view?usp=share_link" title="Basics">Intro to Lists, Tuple and Dictionaries</a> </li>
-         <li> <a href="https://drive.google.com/file/d/1v9987Qdyb2OK3PX7KaOE885eM38ouXmO/view?usp=share_link" title="Intermediate">Control Structures and List Comprehenion</a> </li>
-         <li> <a href="https://drive.google.com/file/d/1w-UHiQOn7tcKLOf8At5Pxj88p5_akRBz/view?usp=share_link" title="Advanced">Functions, Error Handling, File IO and Numpy</a> </li>
-
-</ol>
+### Here is a set of links to get you started on your journey 
+<p>
+   Thhis is a PDF that can be used for reference along with the other links added you will find attached towards the end of this module.</br>
+   Please Note that these are just for refernc. Do explore on your own too 😊 
+         <a href="https://www.tutorialspoint.com/python_mysql/python_mysql_tutorial.pdf" title="Textbook">Guide to work with Python and MySQL</a></p>
 
 ### Tasks
 
