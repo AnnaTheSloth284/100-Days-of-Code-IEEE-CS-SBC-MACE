@@ -1,4 +1,12 @@
-# Working with Files
+# Introduction to MySQL and MySQL-Python Connectivity Module
+
+Welcome to our Introduction to MySQL and MySQL-Python Connectivity module! In this module, we will cover the basics of working with MySQL databases and how to connect to them using Python.
+
+We understand that learning a new technology can be overwhelming, so we've made this module as simple and fun as possible. We'll break down each topic into easy-to-digest sections and provide plenty of examples to help you understand the concepts.
+
+We'll also be hosting the module on GitHub, so you can easily access the course material and collaborate with other learners.
+
+We hope you'll find this module both informative and enjoyable. Let's get started on our journey to mastering MySQL and Python connectivity!
 
 
 ### Now let's dive deeaper 
